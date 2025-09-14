@@ -57,7 +57,7 @@ Currently I’m exploring:
 - Built workflows linking wet-lab outputs to computational sequence analysis.
 
 **Upwork — Marketing Assistant & Freelancer**  
-*2019 – 2024 • Remote*  
+*2022 – 2024 • Remote*  
 - Delivered data-driven digital marketing & analytics dashboards.  
 - Recognized as **Top-Rated Freelancer** for consistent international work.
 
