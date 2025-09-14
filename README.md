@@ -84,8 +84,6 @@ Currently I’m exploring:
 
 ## 🏅 Certifications & Awards
 
-## 🏅 Certifications  
-
 - **Content Marketing** — eRozgaar  
 - **Social Media Automation** — eRozgaar  
 - **WordPress, SEO & E-commerce Management** — DigiSkills  
