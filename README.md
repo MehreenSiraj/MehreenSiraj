@@ -19,9 +19,11 @@
 
 ## 🔬 About Me
 I’m an **M.Phil. Biochemistry (CGPA 3.70/4)** graduate with strong wet-lab experience (DNA isolation, PCR, sequencing) and an emerging specialization in **computational biology & bioinformatics**.  
-I bridge benchwork and code to advance precision medicine and biotechnology — currently building genomics pipelines and applying AI to life-science data.
-
-**Thesis:** Isolation of metalloprotein genes (CotA & ResC) from *Bacillus clausii* KP10.
+Currently I’m exploring:  
+- **AI & Machine Learning** in life sciences  
+- **No-code automation tools** (Make.com, n8n)  
+- **Microsoft Azure AI** for intelligent applications  
+- **Generative AI** and AI-driven automation for research and healthcare  
 
 ---
 
@@ -85,11 +87,23 @@ I bridge benchwork and code to advance precision medicine and biotechnology — 
 ---
 
 ## 🏅 Certifications & Awards
-- Genomic Data Science Specialization — Johns Hopkins University (Coursera)  
-- Introduction to Linux — Linux Foundation (Coursera)  
-- Prime Minister Youth Merit Scholarship • Prime Minister Laptop Scheme • District Speech Winner • Top-Rated Freelancer (Upwork)
 
----
+## 🏅 Certifications  
+
+- **Content Marketing** — eRozgaar  
+- **Social Media Automation** — eRozgaar  
+- **WordPress, SEO & E-commerce Management** — DigiSkills  
+- **HTML & CSS** — WP Academy  
+- **SEO, Blogging & Affiliate Marketing (SEBT)** — iSkills  
+- **AI & Machine Learning** — NAVTTC / DevCastle  
+- **Genomic Data Science Specialization** — Johns Hopkins University (Coursera)  
+- **Introduction to Linux** — Linux Foundation (Coursera)  
+- **Google IT Support Certificate** — Google  
+- **Google Digital Marketing & E-commerce** — Google  
+- **Search Engine Optimization (SEO)** — University of California, Davis  
+- **HubSpot Marketing Software Certification** — HubSpot  
+- **Python & Markdown Language** — Codanics  
+- **The Complete Full-Stack Web Development Bootcamp** — Dr. Angela Yu, Udemy  
 
 ## 📊 GitHub Stats
 <p align="left">
