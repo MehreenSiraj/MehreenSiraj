@@ -113,5 +113,5 @@ Currently I’m exploring:
 
 ---
 
-<p align="center">✨ I’m passionate about combining wet-lab expertise with computational methods to solve real biological problems. Let’s collaborate! ✨</p>
+<p align="center">✨I’m passionate about dry-lab research, using computational methods and AI in life sciences to tackle real-world biological challenges. Let’s collaborate!✨</p>
 
