@@ -58,7 +58,7 @@ Currently I’m exploring:
 
 **Upwork — Marketing Assistant & Freelancer**  
 *2022 – 2024 • Remote*  
-- Delivered data-driven digital marketing & analytics dashboards.  
+- Delivered SEO, Social media, Wordpress content management, and digital marketing services.  
 - Recognized as **Top-Rated Freelancer** for consistent international work.
 
 **Science Teacher (Biology & Chemistry)** — *Al-Huda Public School*  
