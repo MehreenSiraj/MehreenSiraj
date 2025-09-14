@@ -68,13 +68,9 @@ Currently I’m exploring:
 ---
 
 ## 📂 Featured Projects
-- **Bioinformatics Pipeline** — Primer design → PCR → Sanger sequencing → sequence analysis (CotA & ResC).  
-  Repo: `https://github.com/MehreenSiraj/REPO_NAME` *(replace with actual repo)*
+- **Bioinformatics Research** — Primer design → PCR → Sanger sequencing → sequence analysis (CotA & ResC).  
 
 - **Healthcare Data Science** — Exploratory Data Analysis on Diabetes Dataset (Python, Pandas, Matplotlib).  
-  Repo: `https://github.com/MehreenSiraj/REPO_NAME` *(replace with actual repo)*
-
-> Tip: use the repo pin card images (instructions below) to create clickable project cards.
 
 ---
 
