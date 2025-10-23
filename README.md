@@ -14,8 +14,6 @@
   </a>
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=MehreenSiraj&color=0e75b6"/>
 </p>
-
-[cite_start]I'm a researcher by training (M.Phil. Biochemistry [cite: 52]) and a Top-Rated Technical Marketer and AI SEO Automation Specialist by profession. [cite_start]I bridge the gap between deep analytical research (like genomics and bioinformatics [cite: 91, 106, 117]) and data-driven digital growth. I treat marketing challenges like research problems, leading to robust, scalable solutions.
 ---
 
 ## 🔬 About Me
