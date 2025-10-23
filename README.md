@@ -324,7 +324,7 @@ Let's build AI-powered solutions that drive real business impact.
 
 📧 **Email:** [iammehreensiraj@gmail.com](mailto:iammehreensiraj@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/mehreen-siraj](https://www.linkedin.com/in/mehreen-siraj/)  
-💼 **Upwork:** [Top-Rated Profile](https://www.upwork.com/freelancers/~YOUR-PROFILE-ID-HERE)
+💼 **Upwork:** [Top-Rated Profile](https://www.upwork.com/freelancers/~0172fefe18b2c50b95)
 
 ---
 
