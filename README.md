@@ -6,7 +6,6 @@
 
 *Bridging Life Sciences & AI to Drive Innovation in Research, Healthcare & Digital Marketing*
 
-[![Email](https://img.shields.io/badge/Email-iammehreensiraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammehreensiraj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehreen_Siraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehreen-siraj/)
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0172fefe18b2c50b95)
 ![Profile Views](https://komarev.com/ghpvc/?username=MehreenSiraj&color=0e75b6&style=for-the-badge)
